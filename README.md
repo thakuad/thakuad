@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👯 Pronouns: He
-- 🌱 I’m currently in a final year of Bachelor of Information Technology Specilisation in Software Engineering from Charles Stuart University. 
+- 🌱 Graduated in 2020 - Bachelor of Information Technology Specilisation in Software Engineering from Charles Stuart University. 
 - 🔭 I’m currently working for @Nuvento-AU
 - 💡 I love to create🎨, develop👩‍💻 and communicate👨‍👩‍👧‍👦. Communities are what makes me endlessly motivated! Feel free to reach me!🌏
 - 📫 How to reach me: info@thakuad.com
